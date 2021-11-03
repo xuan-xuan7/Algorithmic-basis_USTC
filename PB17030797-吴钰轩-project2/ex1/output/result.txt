@@ -1,5 +1,0 @@
-2.75 k2 k1 d0 d1 k5 k4 k3 d2 d3 d4 d5 
-3.31 k6 k3 k2 k1 d0 d1 d2 k5 k4 d3 d4 d5 k8 k7 d6 d7 k9 d8 d9 
-3.27 k4 k1 k3 k2 d1 d2 d3 d0 k10 k6 k5 d4 d5 k9 k8 k7 d6 d7 d8 d9 k13 k12 k11 d10 d11 d12 d13 
-3.23 k3 k1 k2 d1 d2 d0 k7 k5 k4 d3 d4 k6 d5 d6 k12 k9 k8 d7 d8 k10 k11 d10 d11 d9 k14 k13 d12 d13 k15 k17 k16 d15 d16 d17 d14 
-3.50 k7 k4 k2 k1 d0 d1 k3 d2 d3 k6 k5 d4 d5 d6 k12 k9 k8 d7 d8 k10 k11 d10 d11 d9 k17 k15 k13 k14 d13 d14 d12 k16 d15 d16 k20 k18 k19 d18 d19 d17 k21 d20 d21 
